@@ -1,3 +1,3 @@
 # metrico / cloki / qryn
 
-<img src="https://user-images.githubusercontent.com/1423657/147935343-598c7dfd-1412-4bad-9ac6-636994810443.png">
+![image](https://user-images.githubusercontent.com/1423657/162726602-26fa7078-9eb2-464f-ad83-9c056d08139f.png)
