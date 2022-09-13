@@ -2,9 +2,9 @@
 ![image](https://user-images.githubusercontent.com/1423657/163052956-bf60f5a7-43de-459e-ad8e-ea0775d68e3d.png)
 -->
 
-## Hello  👋 from the Team at [metrico/qryn](https://qryn.metrico.in)
+## Hello  👋 from the Team at [metrico/qryn](https://qryn.dev)
 
-**qryn** is an open-source, polyglot observability stack for logs, timeseries and telemetry
+**qryn** is an open-source, polyglot observability stack for [logs, timeseries and telemetry](https://qryn.dev)
 
 <br/>
 
