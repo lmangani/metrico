@@ -2,11 +2,11 @@
 ![image](https://user-images.githubusercontent.com/1423657/163052956-bf60f5a7-43de-459e-ad8e-ea0775d68e3d.png)
 -->
 
-<img src="https://user-images.githubusercontent.com/1423657/198844677-e2348c76-a982-4f56-bd64-7544ba2d87bb.png" width=500>
+<img src="https://user-images.githubusercontent.com/1423657/235351528-9d310012-afbd-42ba-8e0c-60e2ced22df2.png" width=200>
 
 ## Hello  👋 from the Team at [metrico/qryn](https://qryn.dev)
 
-**qryn** is an open-source, polyglot observability stack for [logs, timeseries and telemetry](https://qryn.dev)
+We work on **qryn**, an open-source, polyglot observability stack for [logs, timeseries and telemetry](https://qryn.dev)
 
 <br/>
 
