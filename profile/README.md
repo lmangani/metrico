@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/1423657/163052956-bf60f5a7-43de-459e-ad8e-ea0775d68e3d.png)
 -->
 
-<img src="https://user-images.githubusercontent.com/1423657/235351528-9d310012-afbd-42ba-8e0c-60e2ced22df2.png" width=200>
+<img src="https://avatars.githubusercontent.com/u/21342216?s=200&v=4" width=200>
 
 ## Hello  👋 from the Team at [metrico/qryn](https://qryn.dev)
 
